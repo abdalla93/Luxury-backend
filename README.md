@@ -6,8 +6,8 @@ Luxury-backend is the back-end part of luxry a Mini social Media WebSite with th
 4-show my timeline posts
 5-search posts by Hash Tags
 
-To start `npm install`
-then `npm run start`
+To start `composer install`
+then `php artisan serve`
 
 future improvement for the backend part of the project:
 
